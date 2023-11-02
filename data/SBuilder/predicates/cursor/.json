@@ -1,0 +1,29 @@
+{
+    "condition": "minecraft:any_of",
+    "terms": [
+        {
+            "condition": "minecraft:reference",
+            "name": "sbuilder:cursor/down"
+        },
+        {
+        "condition": "minecraft:reference",
+        "name": "sbuilder:cursor/east"
+        },
+        {
+        "condition": "minecraft:reference",
+        "name": "sbuilder:cursor/north"
+        },
+        {
+        "condition": "minecraft:reference",
+        "name": "sbuilder:cursor/south"
+        },
+        {
+        "condition": "minecraft:reference",
+        "name": "sbuilder:cursor/up"
+        },
+        {
+        "condition": "minecraft:reference",
+        "name": "sbuilder:cursor/west"
+        }
+    ]
+}

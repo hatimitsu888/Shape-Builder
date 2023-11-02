@@ -1,0 +1,7 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+        "nbt": "{SelectedItem:{id:\"minecraft:stick\",tag:{ShapeWand:1b}}}"
+    }
+}
