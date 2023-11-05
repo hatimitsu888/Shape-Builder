@@ -1,0 +1,1 @@
+$execute store result score @s canPlaceBlocks run clear @s $(id) 0
